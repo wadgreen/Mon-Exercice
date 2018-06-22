@@ -1,0 +1,31 @@
+*{padding:0px;margin:0px}
+body{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translateX(-50%)translateY(-50%)
+} 
+table{
+	background: #777;
+} 
+form{
+	background: #777;
+}
+.textview{
+	width:195.8px;
+	margin:2px;
+	padding:5px;
+	border:none;
+	background:#ededed;
+	font-size:25px;
+}
+input[type="button"]{
+	width:50px;
+	height:50px;
+	font-size:25px;
+	border: none;
+	cursor:pointer
+}
+
+ framework
+td[colspan="2"] button{width:100px}
